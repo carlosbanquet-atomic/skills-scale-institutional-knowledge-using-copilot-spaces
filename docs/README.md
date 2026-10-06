@@ -1,8 +1,8 @@
 # OctoAcme Project Management Docs
 
-Welcome to the OctoAcme project management documentation suite. These guides define how the team plans, delivers, communicates, and improves work across project lifecycles. The documentation is designed to provide a consistent, repeatable framework for cross-functional work and to reduce onboarding friction for new teammates and stakeholders.
+Welcome to the OctoAcme project management documentation suite. These guides define how the team plans, delivers, communicates, and improves work across project lifecycles. The documentation is designed to help new teammates and stakeholders quickly understand how OctoAcme manages work from idea to release.
 
-OctoAcme uses a structured, iterative lifecycle that spans Initiation, Planning, Execution, Release, and Close & Retrospective. The approach is grounded in five guiding principles: customer-first value, iterative delivery, clear ownership, data-informed decisions, and psychological safety. Together, these principles help teams align on outcomes, improve collaboration, and make progress visible throughout the work.
+OctoAcme uses a structured, iterative lifecycle that spans Initiation, Planning, Execution, Release, and Close & Retrospective. The approach is grounded in five guiding principles: customer-first value delivery, iterative execution, clear ownership, data-informed decisions, and psychological safety.
 
 ## Table of Contents
 
@@ -75,6 +75,6 @@ OctoAcme’s project lifecycle follows a clear progression:
 
 ## Recommended Usage
 
-Use this documentation set as the default reference for OctoAcme project work. Keep the project’s one-pager and related artifacts updated in the repo, and use the relevant guidance in this folder when a team is initiating, planning, releasing, or learning from a project.
+Use this documentation set as the default reference for OctoAcme project work. Keep the project’s one-pager and related artifacts updated in the repo, and use the relevant guidance in this folder whenever you are planning, executing, or closing a project.
 
 This README acts as the central entry point for the OctoAcme process knowledge base and should be the first place a teammate or stakeholder looks when seeking guidance on how work is managed across the project lifecycle.
